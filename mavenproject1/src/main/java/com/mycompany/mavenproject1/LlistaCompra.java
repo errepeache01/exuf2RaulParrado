@@ -24,6 +24,9 @@ public class LlistaCompra {
         llista.add("Gelat xocolata");
         llista.add("Gelat vainilla");
         llista.add("Gelat menta");
+        llista.add("Samarreta Goku");
+        llista.add("Samarreta Luffy");
+        llista.add("Samarreta Superman");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
