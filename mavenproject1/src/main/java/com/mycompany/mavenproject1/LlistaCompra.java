@@ -21,6 +21,9 @@ public class LlistaCompra {
         llista.add("Ous");
         llista.add("Formatge");
         llista.add("Tomàquets");
+        llista.add("DVD Batman");
+        llista.add("DVD Star Wars");
+        llista.add("DVD Mad Max");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
