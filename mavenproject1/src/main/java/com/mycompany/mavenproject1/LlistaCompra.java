@@ -21,6 +21,9 @@ public class LlistaCompra {
         llista.add("Ous");
         llista.add("Formatge");
         llista.add("Tomàquets");
+        llista.add("Gelat xocolata");
+        llista.add("Gelat vainilla");
+        llista.add("Gelat menta");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
